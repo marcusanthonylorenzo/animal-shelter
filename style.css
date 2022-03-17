@@ -4,5 +4,20 @@ body {
   background-color: #ffc0c0;
 }
 
+nav ul {
+  list-style-type: none;
+  text-align: left;
+  padding-top: 1em;
+}
 
+nav li {
+  display: inline;
+  padding: 1em;
+  background-color: #dd7e7e;
+  border-radius: 15px;
+  margin: 1em;
+}
 
+nav li:hover {
+  background-color: #c596a0;
+}
